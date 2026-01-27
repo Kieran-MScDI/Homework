@@ -22,16 +22,17 @@ Operate essential services or carry out core activities, for example; internet a
 **Insight 3:**	Items discussed by MAT included the email system and a poor BCDR audit result; to deal with the issues identified above I recommend the outsourcing of not just the email system but also Enterprise Security and Architecture roles, to develop the most appropriate solutions for BCDR across on-prem and external domains.<br/><br/>
 
 ## Copies of key quotes with page numbers from recommended reading(s). <br/>
-1.  “Puryear and Detrick (2006) suggest that the main problem with offshoring is that many managers regard it as a panacea for the “problematic” operational processes. Instead of diagnosing and correcting deficiencies, many managers seek to transplant the problems somewhere else. In most cases however, this tactic has been shown to be counterproductive. For this reason, the authors suggest that before considering offshoring, firms should examine what are these factors that inhibit performance.” <br/>>
-*(The Handbook of Global Outsourcing and Offshoring, page 27-28, Oshri et al., 2009)* <br/>This quote came to mind when considering the root cause of the organisations issues (poor security and enterprise architecture), and the choice to outsource email.<br/><br/>
+1.  “Puryear and Detrick (2006) suggest that the main problem with offshoring is that many managers regard it as a panacea for the “problematic” operational processes. Instead of diagnosing and correcting deficiencies, many managers seek to transplant the problems somewhere else. In most cases however, this tactic has been shown to be counterproductive. For this reason, the authors suggest that before considering offshoring, firms should examine what are these factors that inhibit performance.” <br/>
+(*The Handbook of Global Outsourcing and Offshoring, page 27-28, Oshri et al., 2009*) <br/>This quote came to mind when considering the root cause of the organisations issues (poor security and enterprise architecture), and the choice to outsource email.<br/><br/>
 
 ## Copies of web search query text & search engine. <br/>
-1. “google apps for business”, using Bing on Microsoft Edge.
-Led to Google Workspace FAQ; Compliance (incl ISO), Security Administration, EU Regulation,  
-2. https://apps.microsoft.com/detail/9p9sdhx8tqvq?hl=en-GB&gl=IE
-3. https://www.markdown-cheatsheet.com/
+1. Searching “google apps for business”, using Bing on Microsoft Edge led to Google Workspace FAQ; Compliance (incl ISO), Security Administration, EU Regulation 
+2. Proof of Work in Github (part of my review process): https://github.com/Kieran-MScDI/Homework/blob/main/POW_YouveGotEmailMAT.md
+5. Research into Markdown: https://www.markdown-cheatsheet.com/ and https://apps.microsoft.com/detail/9p9sdhx8tqvq?hl=en-GB&gl=IE
 <br/>
-## Copies of prompt text & version of the GPT used.
+
+## Copies of prompt text & version of the GPT used. <br/>
 n/a
+
 
 
