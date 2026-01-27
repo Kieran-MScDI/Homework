@@ -16,9 +16,10 @@ Operate essential services or carry out core activities, for example; internet a
 - Missing firewall between internal and DMZ/Public networks?
 - Missing or insufficient security solution
 <br/>
+
 # ====THREE (3) Sentence INSIGHTS=============== <br/>
 **Insight 1:**	MAT’s WAN connectivity issues caused by fire and poor ISP service will not be solved by outsourcing to a third party provider; A fire suppression solution and redundancy in WAN connectivity with strict SLA agreement with ISP(s) is recommended to mitigate these risks.<br/><br/>
-**Insight 2:**	Outsourcing to cloud providers can move responsibility for some areas of infrastructure security to the provider and mitigate some of the issues with bots and spyware MAT experienced however responsibility for on-premises (on-prem) infrastructure and internal training and security processes are needed to prevent and mitigate security future breaches.<br/><br/>
+**Insight 2:**	Outsourcing to cloud providers can move responsibility for some areas of infrastructure security to the provider and mitigate some of the issues with bots and spyware MAT experienced however the organisation remains responsible for on-premises (on-prem) infrastructure and internal training and security processes needed to prevent and mitigate future security and infrastructure failures.<br/><br/>
 **Insight 3:**	Items discussed by MAT included the email system and a poor BCDR audit result; to deal with the issues identified above I recommend the outsourcing of not just the email system but also Enterprise Security and Architecture roles, to develop the most appropriate solutions for BCDR across on-prem and external domains.<br/><br/>
 
 ## Copies of key quotes with page numbers from recommended reading(s). <br/>
@@ -33,6 +34,7 @@ Operate essential services or carry out core activities, for example; internet a
 
 ## Copies of prompt text & version of the GPT used. <br/>
 n/a
+
 
 
 
