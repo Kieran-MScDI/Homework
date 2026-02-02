@@ -1,1 +1,90 @@
 
+
+# Symantec moves off-shore (case)
+
+| Paragraph Groups (context) | Comments |
+| --- | --- |
+| "The problem with success" thought Gordon Eubanks “is you need to keep changing the game to keep winning". Gordon had achieved outstanding success in the software market in the US in a host of software product and utility categories (programming languages, antivirus, disk management and more). The company had developed in-house products and acquired competitors such that it was now the dominant supplier of these products in the US. What was left was the rest of the world; the question was how? |	
+| The Symantec board was meeting to review plans for the next stage in the company's expansion. Their strategy was to transform Symantec from being a national leader into the global brand for computer utilities and productivity applications. <mark>The corporate target was to reach sales revenues of over 100 million a quarter within three years. International sales already accounted for around 5 million dollars a quarter over the last financial year and its value was growing but not fast enough. International **customers wanted software in their own languages, not just English.**</mark> This meant localised versions with translated or enabled software interfaces AND help systems, user guides, packaging, marketing etc. It also meant that the <mark>software had to be tested on the types of computers and operating systems in use in those markets.</mark> | 
+|Some thought it odd that a company with its roots in LA and San Francisco had yet to produce a Spanish-language version of any of its products. But computing was a science and industry that had long neglected the needs of non-English language users. Gordon wasn't even sure if his products could be localised without more or less radical rewrites and redesign. <br/>Software with hard-coded strings and assumptions about character sets were embedded throughout most of the products.<br/> Then there was the Manufacturing challenge.<br> The company was going to need boxed versions in German, French, Spanish, Italian, Swedish; they might even need to release a version of each product in UK English if the sales justified the cost or customers demanded it. And then there was ‘double byte’, the Asian markets Japan and China. | Evidence here of not considering the needs of all computer users. The inability to recognise Spanish as important indicates that the organisation’s design and development does not include user feedback to capture user needs at the early stages. A shift-left approach is needed, had it been in place they could have avoided the need for complete re-engineering and could have considered other areas such accessibility. <br/><br/> ‘Double-Byte’; China and Japan mentioned but ignores another large market; South Korea. <br/> (see https://en.wikipedia.org/wiki/Double-byte_character_set ) | 
+| The company currently manufactures around 200 SKUs (stock-keeping units) for products in American English sold in the US and to the rest-of-world (ROW). With localised versions of all product lines they would end up with over 1,000 new SKUs to manage and maintain in the first year alone. 
+Gordon considered his options; he could outsource manufacturing to 'turn–key' providers, manage the job 'in-house', or leave it to resellers and distributors to create localised versions and handle the manufacturing for each national market. <br/> The current reseller agreement with Softbank in Japan was just like that. Softbank did localisation and translation but it also got to keep most of the sales revenue. Japanese language versions of their products attracted a lucrative premium. OEM (original equipment manufacturer) deals with non-US PC manufacturers bundling 'lite' versions could also bring more money while at the same time reaching new customers who might then upgrade to 'full' versions or pay for monthly updates. <br/> Should a single division be given responsibility for all language and manufacturing or should the work be farmed out to each national office? <br/> The problem with leaving it to resellers or country sales offices was one of quality control, marketing and message management. <br/> Can you imagine having one 'country version' translating the product name one way and another choosing to go with the English title? | Power shifted to the outsource partner.|
+| Should Symantec establish an international base and if so where? <br/> Gordon's erstwhile competitor Mitch Kapor, the creator of 'Lotus Notes' had established a software lab in Dublin, Ireland, but Israel and India also had growing software services and manufacturing sectors. <br/> Having a headquarters based inside the European Economic Community might avoid import tariffs if products were manufactured and had value added in Europe. There were also favourable corporate tax rates on profits in some countries. <br/>Gordon pondered, “does success follow the money... or is it that money followed success?"| | 
+	
+| Paragraph Groups (locations) | Comments |
+| --- | --- |
+|**Why Ireland?** <br/> The Irish Development Agency (IDA) promotes Ireland as a 'pro-business' environment (www.idaireland.com - Investment Ireland). The IDA summarises the enefits of Ireland as follows: <br/> • a favourable tax regime, <br/>• a young and talented workforce,  <br/>• a critical mass of relevant supporting industry and infrastructure,  <br/>• a unique political and social commitment to supporting FDI and multinationals,  <br/>• and excellent managerial talent. <br/> The 2008-2012 Business Environment Ranking of the Economist Intelligence Unit placed Ireland 11th globally out of 82 countries. <br/> | Proven ability to meet needs evidenced by competitor who is already established in Dublin.<br/> Hard work of identifying a good offshoring location already done. <br/> Possible opportunity to poach skills from the competitor. | 
+|**Invest in Israel** <br/> Israel's Ministry of Industry, Trade and Labor (www.investinisrael.gov.il) promotes Israel as an investment destination based on the following criteria:  <br/>• a positive business climate (access to venture capital, access to international markets), <br/>• an exceptional workforce (educated, entrepreneurial and multi-lingual), <br/>• investment incentives (grants, supports, structures) <br/>Israel invests 4.5% of its GDP in R&D, which is the highest ratio of any country in the world <br/>(IMD World Competitiveness Yearbook 2008). <br/> <br/>“For example, Israel‟s position as one of the world‟s leading software exporters has been attributed, in part, to its development of strong niche expertise stemming from local military technical training (Heeks et al. 2004).” (Abbott and Jones, 2012)(P. 4, Para. 3). | 	Consider turbulent history and risks of regional conflict that may impact operations. <br/> <br/>Does Israel operate an apartheid state, if so how would the organization’s international image be impacted by locating there? <br/> <br/> Lots of argument for and against the idea that Israel operates an Apartheid state in the media, it tends to be a polarizing subject with no middle ground.  <br/> <br/>A search for scholarly works containing "Israel" "apartheid" for the past 10 years in the UCD library resulted in over 700 results for Journal and Magazine Articles. <br/> <br/> I would advise against locating here based on the instability of the region and the polarizing politics. |
+|**India: Why Maharashtra?** <br/>The Maharashtra Industrial Development Corporation (www.midcindia.org) - MIDC - of Maharashtra State (capital Mubai, regional centres Pune and others) claims the state as a proactive driver of inwards investment and support for entrepreneurs. It "continues to attract the largest quantum of investments, both domestic and foreign". Maharashtra's strengths include: <br/>• high literacy, <br/>• good infrastructure (power, ports, airports, rail, and road), <br/>• global players already based there, <br/>• access to an educated workforce, <br/>• surrounded by India's most prestigious universities and research institutes, <br/>A joint survey of leading Indian States conducted by the World Bank along with the CII, found that Maharashtra has the best investment climate | 
+
+**Guidelines** <br/>Understand the various sourcing models available for clients and vendors <br/>
+• Be able to identify which activities and business processes can be outsourced or offshored <br/>
+• Assess which factors should be considered when making a decision about outsourcing and offshoring <br/>
+
+**My Recommendation** <br/>
+Regional outsourcing of Customer Service, Account Management, and tech support. <br/> 
+Consider China outsourcing taking more control of product than seen in Japanese operation. <br/>
+From Operational Risk Matrix “Set up captive centre nearby or onshore. R&D, design”: Recommend Ireland as working hours partially overlap with organization HQ simplifying communications. Allows access to multiple EU language skills and markets. Additionally recommend China using same model which adds more direct access to its large market and “2-Byte” programming experience. Research and Design could become a FTS operation speeding up the redevelopment of products into global, customer focussed products (shift-left design). <br/>  
+
+
+EVERYWHERE AND NOWHERE: NEARSHORE SOFTWARE DEVELOPMENT IN THE CONTEXT OF GLOBALISATION
+Pamela Abbott, Matthew Jones, 2012
+“Cairncross (1997, p. xi) states, “[c]ompanies will locate any
+screen-based activity anywhere on earth, wherever they can find the best bargain of skills and productivity”, and Heeks (1999) argues, “[in developing countries] Computer Science graduates need arm themselves with just a PC and a couple of user contacts… and they are global „info-preneurs‟”. Technical skills and minimal infrastructure, therefore, are all that are seen to be needed for a viable offshoring solution.”
+(P. 2, Para. 2)
+
+“power and wealth come not from location, but through connection to information networks. This may be significant in terms of the relationship between offshoring and economic development, since software “export enclaves” (Heeks 1999) may operate relatively independently of their physical location. 
+As compelling as this view of placeless work may be, its underlying assumptions may be questioned. It has been argued, for example, that although increased use of ICTs, especially in telemediated services, enables the use of new locations, this does not mean that differences between places no longer matter (Goddard et al. 1996).”
+(P. 4, Paras. 2-3)
+
+Of ZCOB: “One of the primary criticisms levelled at the company was its
+apparent failure to sell the nearshore concept, the very idea upon which it was predicated. The creation of a place like India seemed not to be convincing enough for it to be regarded in the same light as India.” (P. 6, Para. 6)
+
+Of Nco Jamaica: “The collaboration has endured despite the complexity of the relationships among the partners. Interviewees attributed this to their level of commitment, both the government‟s involvement in sponsoring and funding the project, and Nco‟s follow-through in hiring the trained programmers.” (P. 8, Para. 2)
+
+ 
+(p.12)
+
+“ZCOB‟s “enclave” approach (Heeks 1999) still had social, economic and political effects on Barbados, that had repercussions for the company such as increased local costs with negligible effect on local employment. The lack of engagement with the local community and economy were also seen to have contributed to ZCOB‟s later difficulties.” (p. 13, para. 2)
+
+** Thought – The cultural differences in the locations discussed are important factors, but also I can see that there were two sides to viewing culture; what it is and seen internally, and how it is perceived from the outside. It was interesting to see statements highlighting Indian population as more positive, while Jamaican was stereotypically seen as laid back and not business-like.
+   
+
+** Thought – for the most part regional stability has been enjoyed by European nations in the decades following World War Two, but since the disintegration of the USSR we have seen conflicts in Eastern Europe move closer to the EU; The current Russian regime sees the ex-soviet nations trying to join the EU as a threat to its own national interest. In more recent events we also see a once close ally, the U.S., making threats to take over Greenland and framing Europe as weak. We’ve also seen far-right political groups gain ground in the EU. 
+The relative stability enjoyed by Europe for so long can no longer be taken for granted and, as with other areas of the world, conflict and stability in Europe must now be considered when organizations are making Outsourcing and Offshoring decisions.
+
+
+OFFSHORE BUSINESS PROCESS OUTSOURCING FOR DEVELOPING COUNTRIES:
+A SOUTH AFRICAN PERSPECTIVE
+Abubakar Mohammed Alkali, Pamela Abbott, Salihu Ibrahim Dasuki, Ago K.M. Quaye
+(2017)
+
+“According to Doh et al. (2009), call centers are located mainly in English
+speaking countries because personnel in the centers must be able to interact with customers in fluent and proper accented English. Other key factors that affect the choice of offshoring locations are the cost of labor and the quality of infrastructure (Oshri et al., 2011). Organisations are also concerned about security and data privacy issues, unexpected differences in labor laws, human resource practices and possible customer dissatisfaction with offshore service centers (Malos, 2010).”
+(p. 2, para. 4) 
+
+“Business processes such as call centers which involve a lot of interactivity are offshored to countries with high levels of ICT infrastructure and high use of the home country’s language. Others such as payroll processing that are quite repetitive, are often offshored to countries with low wages and relatively stable environments. Research & Development (R&D), which requires innovative capabilities, is generally offshored to countries with a highly educated workforce.”
+(p. 3, para. 1)
+
+“government vision is important for creating an attractive offshore outsourcing industry (Willcocks et al., 2009).” (p. 3, para. 1)
+
+“Like ITO, BPO is quite risky and has led to about two thirds of organisations failing to get the expected benefits from the arrangement and about 30% terminate the contract (Rouse and Corbitt, 2004).”
+(p. 3, para. 4)
+
+“Some studies suggest that while useful, broad-based frameworks such as these also need to be augmented by other considerations that may influence the outcome of an outsourcing venture”
+(p. 5, para. 1)
+
+“COUNTRY ATTRACTIVENESS FOR OFFSHORE SERVICES WORK” (pp. 4-6)
+Criteria to examine suitable outsourcing locations is laid out very well.
+Is HIV data Africa specific? Better to expand to Health of the Nation using CSO or similar stats? Or examining preparedness for epidemics and how managed in the past?
+
+“the overall attrition rate for employees in the industry is 9.6%. However, when broken down into captive and outsourcers there is a large gap between the attrition rate of employees in captives at 4.5% and outsourcers at 30%. This is due to salaries and working conditions” (p. 11, para. 2)
+
+“As the Government of South Africa has placed BPO as key for economic development, there could be a modification of the laws to suit the industry, so the inflexibility does not hinder future investments. However, this is hard to predict as the trade unions will definitely not accept modifications if it does not favour employees.”
+(p. 17, para. 3) ** Thought – Irish Government have enacted labour laws giving flexibility IT Industry.
+
+
+
+Problem-based learning - Wikipedia
+
+
