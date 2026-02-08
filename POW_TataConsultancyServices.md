@@ -1,0 +1,144 @@
+Case Study
+TATA CONSULTANCY SERVICES: BUILDING CAPABILITIES
+Credibility: 1970s-1990s
+In 1968, Tata Sons in India established Tata Consultancy Services (TCS) as a division to service
+its electronic data processing (EDP) requirements and provide management consulting
+services. Over the next few years, a few young engineers at TCS realized that they were staring
+at a potential new business opportunity and started offering data processing services to
+clients outside the group.
+India's first-generation computer experts felt handicapped by an outmoded computing
+environment in the country. When TCS started, there were only 17 computers in the entire
+country. The first break through in India came in 1969 when TCS won a contract from Central
+Bank of India to automate branch reconciliation processes. But progress was slow because
+India's foreign exchange laws made it difficult to import hardware.
+As a result, TCS became the exclusive distributor for the main frame computer maker
+Burroughs and simultaneously started doing programming for the hardware maker's
+customers in the US. Using its export revenues. TCS was able to bring in new computers,
+enabling the fledgling company to keep pace with the evolving needs of its growing client
+roster in the US
+The defining moment for the Indian software industry came in 1974 when TCS won a large
+export project for the Detroit Police Department. This was followed by other projects in the
+US and UK, and thus the notion of offshore services, or the ability to provide services from
+remote locations, was born. Without an adequate telecommunication infrastructure,
+programmed tapes were sent on weekly flights to the US, while software requirements came
+through the postal services.
+In 1977, the Indian government enacted a legislation forbidding foreign firms from operating
+fully owned subsidiaries in India. As a result, IBM chose to leave India, a decision that opened
+up a new window of opportunity in India: as its core competency. TCS installed hardware and
+systems software and created and ran data centers.
+From the 1980s, TCS expanded aggressively. The average size of its deals grew beyond 25
+person-years to over 100 person-years. In 1988, with improvements in telecommunications,
+TCS began to drive the offshore business by installing a water-cooled IBM 3090 mainframe,
+an aggressive move for a company that decided to invest heavily in a single machine with
+substantial export guarantees to the government. The gamble paid off and eventually led to
+a complete redefinition of the business model that in turn sparked the creation of today's $60
+billion Indian IT industry.
+With its business growing steadily in the 1980s, TCS became the hub for new technology
+knowledge in India. It started creating opportunities for Indian IT professionals with focused
+academic-industry partnerships beginning with IIT Bombay and IIT Kanpur, followed by new
+engineering colleges with course design and faculty development programs. By the end of the
+1980s, a robust system was in place for the education and research needs of the country's IT
+professionals.
+In 1981, TCS established India's first IT R&D division, the Tata Research Design and
+Development Centre, at Pune. Simultaneously TCS worked closely with the Indian
+government on regulatory issues.
+Because computers were still scarce, the improvement of processes to increase productivity
+became a focus for TCS. Quality became a cornerstone for TCS first and subsequently for the
+entire IT industry in India. The relentless pursuit of excellent quality began to draw the
+attention of customers and competitors alike.
+Scale: 1990s-2004
+With the end of the century approaching and the impending Y2K problem looming ahead, TCS
+was becoming known for its software factory, a development that helped it leapfrog into the
+global environment. TCS spread its footprint worldwide by setting up global development and
+nearshore delivery centers in Hungary, China, Uruguay, Brazil, Japan, the US, and Canada. By
+the 1990s, the dot-com boom had the IT industry on steroids making it a highly lucrative
+sector.
+By the 1990s, the dot-com boom was firmly entrenched, and it became a period of
+exponential growth for TCS, which saw its first change of the guard. The visionary
+Massachusetts Institute of Technology (MIT)-trained electrical engineer who had started TCS,
+F. C. Kohli, stepped down as he passed the leadership to Subramaniam Ramadorai who had
+the drive, rigor, and passion to lead TCS through its next phase of growth. Taking over as CEO
+in 1996, Ramadorai made organizational changes beginning with a more empowered
+management style. Having grown from the ranks and served TCS in different departments,
+his understanding of the organization was deep, and his vision was to take TCS into the global
+top ten league of IT services companies.
+Under his leadership, TCS was restructured into a domain-led organization, capabilities
+evolved to deliver end-to-end solutions, and uniform organization-wide quality processes
+were introduced and reinforced.
+TCS became the world's first organization to achieve an integrated enterprise-wide maturity
+level 5 on both the capability maturity model and people capability maturity model
+(frameworks conceptualized by the Software Engineering Institute at Carnegie Mellon
+University to benchmark and appraise the software process and people management process
+of an organization).
+As the offshore model of software development gained currency among global corporations,
+Ramadorai played an active role in establishing offshore development centers in India to
+provide high-end quality solutions to major corporations such as HP and GE. Under his
+leadership, technology excellence centers were set up in India with a vision of remaining
+abreast with changing technologies at all times.
+TCS's internal operational efficiency was given a boost by an enterprise-wide digitization
+initiative. A turning point in 1989 was SEGA, a project that involved designing, building, and
+implementing on a turnkey basis a new system for the Swiss Corporation for Securities,
+Clearing and Settlement. The 350-person-year project went live on schedule and established
+TCS as a global technology partner with unmatched credentials for delivery excellence. This
+provided a platform for TCS to build India's financial and capital market infrastructure,
+including the state-of-the-art National Stock Exchange, among the biggest exchanges in the
+world in terms of volume, as well as a national securities depository that made the Indian
+stock markets paperless.
+New horizons emerged for the business, including addressing the Y2K problem before the end
+of the millennium, and developing e-business, BPO, and engineering services. TCS's global
+growth saw an expansion in its customer list, its global network and presence, and increased
+interaction with professional groups, and it earned a greater presence in the Indian
+government on policy matters.
+In 2003, TCS became India's first billion-dollar IT services company. The following year, it went
+public through an initial public offering that at that time was the largest ever such offering.
+Leadership: 2004-2011
+As the Indian economy continued to grow, the need for technology to drive growth became
+part of the national agenda. TCS, which had been investing in the domestic IT market since its
+inception, was well positioned to help the government at the central and state levels in its
+new initiatives. India's largest IT company was firmly in the spotlight, not only as the jewel in
+the Tata Group's crown but also because of its growing global presence.
+Strategic acquisitions were also playing a role to position TCS for future growth. TCS had
+acquired CMC in 2001, prior to the IPO, to expand its presence in the domestic market and
+joint ventures in the BPO space. In 2005 and 2006, it acquired FNS, an Australian software
+products firm, and Comicrom, a BPO company in Chile.
+Together with other growth initiatives, including expansion into Brazi), Mexico, China, and
+Hungary, and setting up strategic units to pursue new opportunities in the financial services
+products space or new services such as remote infrastructure management and platform
+based BPO, TCS set the stage for positioning its brand and its offerings to global customers.
+Concurrently, a strong talent localization initiative was being undertaken: the number of non-
+Indian employees rapidly increased to over 10,000 at the end of 2008–2009, including 1,200
+in China and over 6,000 in Latin America, creating a multinational, multicultural global
+organization. The company's greatest asset is its young work force, whose synergy and vitality
+extend beyond TCS and into the community. Employee engagement channels like Maitree,
+for example, offer employees the opportunity to contribute to their communities in a number
+of ways - education, health care, and conservation. among other areas.
+Despite its size, TCS has stayed true to its roots of building collaborative models of
+development, reaching out to work with partners, venture capitalists, academia, and
+government in order to innovate.
+These reflect the new models of innovation where global teams work virtually to create and
+build new solutions and ideas. Being at the heart of this system TCS has been able to leverage
+its relationships to build a network of innovation labs and create new solutions to address
+customer challenges.
+In 2009 a new leader emerged: N. Chandrasekaran, popularly known as Chandra, assumed
+charge as the CEO and MD. He had been at the helm of several key strategic transitions at
+TCS since 2002 when you took over the role as head of global sales. As the chief operating
+officer, he had been the architect of the new organisational structure unveiled in 2008, which
+created multiple agile business units focusing on domains and markets as well as built
+strategic business units in order to pursue new initiatives.
+Chandra personifies TCS’s commitment to customer satisfaction and high-quality
+deliverables. Through his experience in a variety of operational roles across TCS, he has built
+a reputation in the IT services industry for his exceptional ability to build and develop new
+businesses and nurture long-term relationships. He has also been a champion of software and
+business quality for the industry.
+Under his leadership TCS pioneered the creation of its unique Global Network Delivery Model
+across five continents and ventured into new markets including Europe, China, and Latin
+America, and it added new business lines. At the end of 2009–2010, over 25 percent of TCS
+revenues came from new services like BPO, infrastructure, assurance, and asset-leveraged
+solutions, reflecting the effectiveness of this strategy.
+Chandra has also driven domain diversification as TCS has into new areas like media and
+information services, as well as high-technology. All of these have matured into sizeable
+businesses under his guidance. The philosophies of leadership and delivery excellence and
+the promise of “experience certainty” are pillars on which the success of TCS is cemented.
+Four decades ago, when TCS began to promote the concept of global sourcing in IT and
+application services, it was a market defining model. Today it is the mainstream model for the
+global IT industry. TCS has the same opportunity to create new business models for the future.
