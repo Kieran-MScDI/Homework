@@ -54,3 +54,5 @@ sustainable, humane, technology services and business processes (Babin and Nicho
 
 *Abbott, P. (2013). How can african countries advance their outsourcing industries: An overview of possible approaches. The African Journal of Information Systems, 5(1), 28-38.* <br/>
 *Higgins, A., & Saadatmandi, B. (2016). Country Selection and Impact IT Sourcing: Relationships Between Business Factors and Social Inequality. https://go.exlibris.link/bfCBRnD1*
+*Oshri, I., Kotlarsky, J., & Willcocks, L. (2023). The handbook of global outsourcing and offshoring (4th 2023). Palgrave Macmillan. https://doi.org/10.1007/978-3-031-12034-3*
+
