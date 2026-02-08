@@ -20,13 +20,18 @@ As the Indian economy continued to grow, the need for technology to drive growth
 <br/>
 
 # Reading Notes
-
+## Country Selection and Impact IT Sourcing: Relationships Between Business Factors and Social Inequality 
+### Quotes
 *"The ethics of digital sourcing is ultimately a matter for leadership. It must be driven by the leader’s personal motivation and preparedness to be responsible for sourcing 
 sustainable, humane, technology services and business processes (Babin and Nicholson 2012)."*  (Higgins and Saadatmandi, 2016) <br/>
 *"there are indications that the rationale underpinning outsourcing strategies is now changing. The most significant change being that, rather than being driven by cost savings, sourcing is being seen as a way to gain access to excellence (Willcocks et al. 2009)."* (Higgins and Saadatmandi, 2016) <br>
-*" The corporate social responsibility (CSR) perspective implies that firms and industry sectors have an onus to justify offshore sourcing in terms of fairness, social responsibility, corporate behaviour, and tax compliance. Consequently, many organisations have started the process of engaging with local communities, raising awareness of the social value they contribute to, and committing to ethical goals like minimum wages, working hours, and halting the use of child labour. These commitments have impacts on employees, suppliers, contractors, subcontractors, local communities and even customers."*  (Higgins and Saadatmandi, 2016) <br>
+*" The corporate social responsibility (CSR) perspective implies that firms and industry sectors have an onus to justify offshore sourcing in terms of fairness, social responsibility, corporate behaviour, and tax compliance. Consequently, many organisations have started the process of engaging with local communities, raising awareness of the social value they contribute to, and committing to ethical goals like minimum wages, working hours, and halting the use of child labour. These commitments have impacts on employees, suppliers, contractors, subcontractors, local communities and even customers."*  (Higgins and Saadatmandi, 2016) <br/>
 
-Commit to fair trading, sustainability, socially responsibility and ethical behaviour. 
+### Commit to fair trading, sustainability, socially responsibility and ethical behaviour: 
 * (ISO 26000:2010) https://www.iso.org/standard/42546.html <br/>
 * socially responsible buying/sourcing (SRB) model: https://social-economy-gateway.ec.europa.eu/topics-focus/socially-responsible-procurement_en (Same?) <br/> 
-* Gapminder Model https://www.gapminder.org/tools/#$model$markers$line$data$filter$dimensions$geo$/$or@$geo$/$in@=usa&=chn&=rus&=nga&=irl;;;;;;;;&encoding$y$data$concept=mincpcap_cppp&space@=geo&=time;;&scale$type:null&domain:null&zoomed:null;;&selected$data$filter$markers@=chn&=nga&=usa&=irl;;;;;;;;&chart-type=linechart&url=v2 
+* Gapminder Model https://www.gapminder.org/tools/#$model$markers$line$data$filter$dimensions$geo$/$or@$geo$/$in@=usa&=chn&=rus&=nga&=irl;;;;;;;;&encoding$y$data$concept=mincpcap_cppp&space@=geo&=time;;&scale$type:null&domain:null&zoomed:null;;&selected$data$filter$markers@=chn&=nga&=usa&=irl;;;;;;;;&chart-type=linechart&url=v2 <br/>
+Human Development Index (HDI) https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
+
+**I see now why large countries like India, China or the US can be a difficult subject of investigation as there may be vast differences in supports for people in regions and states within large countries.  
+
