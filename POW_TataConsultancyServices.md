@@ -31,7 +31,7 @@ sustainable, humane, technology services and business processes (Babin and Nicho
 * (ISO 26000:2010) https://www.iso.org/standard/42546.html <br/>
 * socially responsible buying/sourcing (SRB) model: https://social-economy-gateway.ec.europa.eu/topics-focus/socially-responsible-procurement_en (Same?) <br/> 
 * Gapminder Model https://www.gapminder.org/tools/#$model$markers$line$data$filter$dimensions$geo$/$or@$geo$/$in@=usa&=chn&=rus&=nga&=irl;;;;;;;;&encoding$y$data$concept=mincpcap_cppp&space@=geo&=time;;&scale$type:null&domain:null&zoomed:null;;&selected$data$filter$markers@=chn&=nga&=usa&=irl;;;;;;;;&chart-type=linechart&url=v2 <br/>
-Human Development Index (HDI) https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
+* Human Development Index (HDI) https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
 
 **I see now why large countries like India, China or the US can be a difficult subject of investigation as there may be vast differences in supports for people in regions and states within large countries.  
 
