@@ -22,13 +22,13 @@ As the Indian economy continued to grow, the need for technology to drive growth
 ## Country Selection and Impact IT Sourcing: Relationships Between Business Factors and Social Inequality 
 ### Quotes
 *"The ethics of digital sourcing is ultimately a matter for leadership. It must be driven by the leader’s personal motivation and preparedness to be responsible for sourcing 
-sustainable, humane, technology services and business processes (Babin and Nicholson 2012)."*  (Higgins & Saadatmandi, 2016) <br/>
-*"there are indications that the rationale underpinning outsourcing strategies is now changing. The most significant change being that, rather than being driven by cost savings, sourcing is being seen as a way to gain access to excellence (Willcocks et al. 2009)."* (Higgins & Saadatmandi, 2016) <br>
-*" The corporate social responsibility (CSR) perspective implies that firms and industry sectors have an onus to justify offshore sourcing in terms of fairness, social responsibility, corporate behaviour, and tax compliance. Consequently, many organisations have started the process of engaging with local communities, raising awareness of the social value they contribute to, and committing to ethical goals like minimum wages, working hours, and halting the use of child labour. These commitments have impacts on employees, suppliers, contractors, subcontractors, local communities and even customers."*  (Higgins & Saadatmandi, 2016) <br/>
-*"We also noted a strong negative correlation between GSLI Financial Attractiveness and life expectancy for new births (figure 3, page 7). This suggests that as the average number of years a new born child would be expected to live increases so the financial attractiveness of that country or region declines. Controversially this correlation could be interpreted as; the longer the workforce lives, the less financially attractive the destination."* (Higgins & Saadatmandi, 2016) <br/>
-*"strategic sourcing decisions may not prove to be so strategic as countries with long established outsourcing reputations appear able to retain competitive advantage in the market for offshore outsourcing in defined specialisms and services."* (Higgins & Saadatmandi, 2016) <br/>
+sustainable, humane, technology services and business processes (Babin and Nicholson 2012)."*  (Higgins & Saadatmandi, 2016, p. 2, para. 1)<br/>
+*"there are indications that the rationale underpinning outsourcing strategies is now changing. The most significant change being that, rather than being driven by cost savings, sourcing is being seen as a way to gain access to excellence (Willcocks et al. 2009)."* (Higgins & Saadatmandi, 2016, p. 2, para. 3)<br>
+*"The corporate social responsibility (CSR) perspective implies that firms and industry sectors have an onus to justify offshore sourcing in terms of fairness, social responsibility, corporate behaviour, and tax compliance. Consequently, many organisations have started the process of engaging with local communities, raising awareness of the social value they contribute to, and committing to ethical goals like minimum wages, working hours, and halting the use of child labour. These commitments have impacts on employees, suppliers, contractors, subcontractors, local communities and even customers."*  (Higgins & Saadatmandi, 2016, p. 2, para. 6)<br/>
+*"We also noted a strong negative correlation between GSLI Financial Attractiveness and life expectancy for new births (figure 3, page 7). This suggests that as the average number of years a new born child would be expected to live increases so the financial attractiveness of that country or region declines. Controversially this correlation could be interpreted as; the longer the workforce lives, the less financially attractive the destination."* (Higgins & Saadatmandi, 2016, p. 6, para. 3)<br/>
+*"strategic sourcing decisions may not prove to be so strategic as countries with long established outsourcing reputations appear able to retain competitive advantage in the market for offshore outsourcing in defined specialisms and services."* (Higgins & Saadatmandi, 2016, p. 8, para. 2) <br/>
 **This is interesting in the Irish context; that we may maintain our Global Position despite becoming more expensive over time. I wonder about the unbalanced impact ofcreating offshoring hubs, not just for large countires but even in Ireland's case do we see investment concentrated into small areas of cities to the detriment of other parts of the country? Are results for wealth showing everyone benefits or is there an imbalance being created?** <br/>
-*" sourcing decisions are not value neutral, they impact individuals, regions and national economies. Nor it seems are sourcing decisions based only upon commercial arguments, many other factors come into play, including personal, emotional and cultural."* (Higgins & Saadatmandi, 2016) <br/> 
+*" sourcing decisions are not value neutral, they impact individuals, regions and national economies. Nor it seems are sourcing decisions based only upon commercial arguments, many other factors come into play, including personal, emotional and cultural."* (Higgins & Saadatmandi, 2016, p. 10, para 1)<br/> 
 
 ### Commit to fair trading, sustainability, socially responsibility and ethical behaviour: 
 * (ISO 26000:2010) https://www.iso.org/standard/42546.html <br/>
@@ -41,12 +41,14 @@ sustainable, humane, technology services and business processes (Babin and Nicho
 ## How can African Countries Advance their Outsourcing Industries_ An overview of possible approaches. - EBSCO
 
 ### Quotes
-*"The first issues lies in the uneven distribution of economic advancement within the country incurred by the introduction of software and services outsourcing hubs (Heeks 1999; Kumar 2005)."* (Abbott, 2013) <br/>
-**This is also the concern I had when reading the Higgins and Saadatmandi (2016) paper**
-*"whether export-only IT services models are ultimately sustainable"* (Abbott, 2013) <br/>
-*"Researchers are unsure of the specific "mix" of conditions that will lead to success"* (Abbott, 2013) <br/>
-**Regarding emulating the success if Ireland and India.** <br/>
-**This paper warns us to use attractiveness indices with caution, and I see ties with previous readings about the importance of not just having offshoring hubs for international companies but to also develop local markets which will be mutually beneficial to the community and the service provider.**  
+
+*"The first issues lies in the uneven distribution of economic advancement within the country incurred by the introduction of software and services outsourcing hubs (Heeks 1999; Kumar 2005)."* (Abbott, 2013, p. 29, para. 1)<br/>
+**- This is also the concern I had when reading the Higgins and Saadatmandi (2016) paper**
+*"whether export-only IT services models are ultimately sustainable"* (Abbott, 2013, p. 29, para. 1) <br/>
+**- I see ties with previous readings about the importance of not just having offshoring hubs for international companies but to also develop local markets which will be mutually beneficial to the community and the service provider.** <br/>
+*"Researchers are unsure of the specific "mix" of conditions that will lead to success"* (Abbott, 2013, p. 29, para. 1) <br/>
+**- Regarding emulating the success in Ireland and India.** <br/>
+**This paper warns us to use attractiveness indices with caution.**   
 
 ## References
 
