@@ -35,3 +35,31 @@
 * A survey of 38 companies in North America and Europe, of which 85% were involved in offshore outsourcing of IT work, found that **89% were satisfied with their offshore outsourcing initiatives** (Beal, 2004).
 * A DiamondCluster survey of 210 buyers found that offshore outsourcing satisfaction rates were **high, but falling from 79 to 62% between 2004 and 2005** (Diamond Cluster, 2005).
 
+### Quote
+#### 1
+
+Social capital is simply the idea that knowledge and resources are exchanged, work gets done, and value is created through social relationships. In the context of outsourcing who the supplier knows in the client organization is the key to ensuring what value the supplier delivers. Conversely, who the client knows in the supplier organization is often a key to ensuring which supplier resources will be devoted to the client’s account to ensure value. Research suggests that once social capital is built, many benefits follow.
+These benefits include increased efficiency, more cooperative behavior, higher levels of trust, less need for costly monitoring, and most importantly– increased innovation (Nahapiet and Ghoshal, 1998).
+
+#### 2
+
+The Inkpen and Tsang (2005) model represents the theoretical framework we used to classify the practices US Manufacturing employed. This model, described below, is closely linked with many research areas. Namely, the bodies of literature related to trust, knowledge transfer, social capital, cross-cultural issues, and geographically dispersed teams are clearly relevant. Specifically, researchers have addressed the role of trust.  
+
+#### 3
+
+this paper focuses on the creation of social capital and knowledge transfer within a **strategic alliance**.
+
+#### 4
+
+A strategic alliance ‘can be formed by firms located in different positions or in the same position in the value chain’ Inkpen and Tsang (2005).
+Firms enter into a strategic alliance voluntarily with the idea of a common benefit resulting from the arrangement.
+
+#### 5
+Looking back, the manager of the SCE and his staff underestimated the need for extensive domain knowledge transfer (product, process, and market) as well as their own expertise in managing an offshore project. (Rottman, 2008, p.34, para. 8)
+
+#### Reference
+Rottman, J. W. (2008). Successful Knowledge Transfer within Offshore Supplier Networks: A Case Study Exploring Social Capital in Strategic Alliances. JIT. Journal of Information Technology (Print), 23(1), 31–43. https://doi.org/10.1057/palgrave.jit.2000127
+
+
+### Web Search / Link
+"What is a Labor Arbitrage" (Bing search on Microsoft Edge) = https://businesscasestudies.co.uk/what-is-labor-arbitrage/
