@@ -57,6 +57,30 @@ Firms enter into a strategic alliance voluntarily with the idea of a common bene
 #### 5
 Looking back, the manager of the SCE and his staff underestimated the need for extensive domain knowledge transfer (product, process, and market) as well as their own expertise in managing an offshore project. (Rottman, 2008, p.34, para. 8)
 
+#### 6
+ migrating the trained employees offshore to train offshore employees creates a talent and knowledge vacuum on-site and severs many professional and personal connections that were created. To address this issue, US Manufacturing overlapped the supplier’s new on site resource with the old one for between 3 and 6 months.
+While this approach is expensive, the two on-site employ ees were able to establish common frames of reference and transfer relationships and connections to the new employee. (Rottman, 2008, p.35, para. 8)
+
+#### 7
+The use of multiple suppliers created larger social networks thus increasing US Manufacturing’s ability to both create social capital and manage knowledge transfer.
+While it may seem counter-intuitive that increasing the number of suppliers would increase the social capital between teams, the SCE found that exposure to divergent engagement models, vendors with different work processes and styles, and vendors with unique expertise, broadened the outlook of the internal employees. Specifically, internal teams were able to enhance their own skill sets and increase their levels of expertise and confidence by working with developers from multiple vendors. (Rottman, 2008, p.36, para. 8)
+
+#### 8
+Considering the proprietary nature of the software the SCE developed, they faced an interesting problem: how to transfer enough knowledge to enable successful product development while protecting their trade secrets. To mitigate this risk, the SCE (1) unitized projects into small segments of work and (2) dispensed these segments among three offshore suppliers to effectively distribute the intellectual property. They viewed their intellectual property as a puzzle. By distributing small pieces among three suppliers, no one supplier can assemble the puzzle on their own. (Rottman, 2008, p.37, para. 5)
+
+#### 9
+When the manager of the SCE finally made the trip to Bangalore, India to visit the people he had worked with for 2 years, but had never met face to face, he realized the high value of the trip. During his 2-week trip, he visited both the large suppliers and the boutique firm.
+It was not only the meetings themselves that created the connections. Rather, face-to-face interactions allowed for a level of social interaction that was impossible during teleconferences or email conversations. (Rottman, 2008, p.39, paras. 2,4)
+
+#### 10
+researchers have identified separate types of trust. Namely, companion trust, competence trust, and commitment trust (Newell and Swan, 2000). In the case of US Manufacturing, commitment trust, which is ‘central in proprietary networks where financial, property, or intellectual rights of the network relationships are at least partly defined’ (Newell and Swan, 2000: 1295), represented the type of trust needed for fostering knowledge transfer. It was this type of trust that allowed the internal teams to fully engage the offshore teams without fear of damaging their own career goals. (Rottman, 2008, p.41, paras. 10)
+
+#### 11
+CIOMagazine reported in 2003 that savings may not be realized because the transaction costs (vendor selection, transitioning work, layoffs and retention, lost productivity, additional processes, and managing the contract) of offshore outsourcing can be as high as eight times the cost of the offshore labor.
+                 
+#### Thoughts
+Initially did not recognize the importance of the domain knowledge, therefor this knowledge was not transferred to the supplier resulting in early failure (round 1) of the outsourcing initiative. Similarly in the CMS case the importance of transferring requirements to the supplier is not prioritised, Tom insists on maintaining the customer - supplier gap despite his own lack of understanding and the delays this introduces.
+
 #### Reference
 Rottman, J. W. (2008). Successful Knowledge Transfer within Offshore Supplier Networks: A Case Study Exploring Social Capital in Strategic Alliances. JIT. Journal of Information Technology (Print), 23(1), 31–43. https://doi.org/10.1057/palgrave.jit.2000127
 
