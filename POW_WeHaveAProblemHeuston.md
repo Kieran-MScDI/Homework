@@ -14,3 +14,24 @@
 |Text|Comments| 
 |---|---| 
 |Content management systems are applications for managing and structuring information and data accessed and delivered over the Internet. The term CMS is often synonymous with 'portal' or web site however several crucial features distinguish a CMS from other internet services including: publication workflow, fine grained user roles and privileges, extensive data/object types (event, wiki, news, chat, blog, slideshow, video, audio, forms, mail, surveys, RSS), TTW (Through The Web) administration and use, extendible via Javascript and other programming methods. A general overview of different CMSs is available at the cmsmatrix.org. cmsmatrix.org enables feature comparisons between the many CMS product/applications available. | | 
+
+
+
+## Redings
+
+### Terms
+
+* Social Capital
+* Knowledge Transfer
+<br/>
+
+### Stats
+
+* A Gartner survey found a **50% failure rate for offshore outsourcing initiatives** (Aron and Singh, 2005).
+* A survey of 204 software developers found that **46%** viewed the **work performed by the offshore teams to be of poor quality** (Carter, 2006).
+* Ventoro’s survey of over 5200 executives from North America and Europe found that nearly **28%** of respondents experienced **cost increases** and another **25% did not generate any cost savings with offshore out sourcing** (Hatch, 2005).
+
+**Conversely**, successes in the effort to offshore IT work are also reported in practitioner outlets:<br/>
+* A survey of 38 companies in North America and Europe, of which 85% were involved in offshore outsourcing of IT work, found that **89% were satisfied with their offshore outsourcing initiatives** (Beal, 2004).
+* A DiamondCluster survey of 210 buyers found that offshore outsourcing satisfaction rates were **high, but falling from 79 to 62% between 2004 and 2005** (Diamond Cluster, 2005).
+
