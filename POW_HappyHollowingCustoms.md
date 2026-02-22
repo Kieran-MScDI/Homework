@@ -37,8 +37,16 @@ process-based (information based on personal experience), characteristic-based (
 (pp. 238-240):
 IndiaSoft humility and hunger reflected Irish programmers attitudes in the past. Also "Belevolance". 
 
-(p. 236, para. 3):
+(p. 240, para. 3):
  "John and Niall spoke often about the (much less tangible) ‘good vibes’ that they constantly got from IndiaSoft and the important role that this played in their decision making. In this regard, we are reminded of Giddens’ assertion that trust is always blind and that it involves an emotional, as opposed to a cognitive, commitment to a given set of outcomes."
+
+(p. 242, para. 3):
+"On the advice of friends, John made it very clear to IndiaSoft at the outset that he was keen to inspect the resume´s of all staff assigned to the project. He later confessed that, despite the fact that he found it difficult to make sense of them, his main intention was to signal to IndiaSoft that he was being very vigilant and watching things closely". Along with the use of omitting to mention a PM in discussions while prasing another John was able to get his message across without the more direct approach which IndiaSoft was finding uncomfortable.
+
+Brokering / Boundary Spanner; Stephen/Ajay.
+Sunil; 2 months in Dublin. Power Agent (don't release code, but don't reveal the block)
+TestCo; Aggressiive questioning. (p. 244)
+
 
 
 
