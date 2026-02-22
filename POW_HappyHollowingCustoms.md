@@ -22,8 +22,23 @@ Courtship AND cohabitation.
 "experts must make a strict division between ‘frontstage’ and ‘backstage’ performance at access points, and the control of threshold between the two is the essence of professionalism." Is 'frontstage' a barrier to psychological security? 
 
 (p. 235, paras. 3-4):
-Ability (knowledge/skill), Benevolance (want to help), Integrity ()
+**Ability (knowledge/skill), Benevolance (want to help), Integrity**
 "means of establishing or producing trust are required as a basis for cooperation. Zucker identifies three key modes of trust production in the modern world (Zucker, 1986):
 process-based (information based on personal experience), characteristic-based (information based on ascribed characteristics), and institutional-based (formal protection against default)."
+(p. 235, para. 5):
+"Information about prior exchange histories can be obtained by engaging in repetitive exchanges with a party and, therefore, such informal trust-producing mechanisms ‘require extensive interaction over long periods of time and/or produce trust between a small number of individuals involved in a limited set of exchanges’ (Zucker, 1986: 62)."
+
+(p. 236, para. 3):
+"characteristics such as gender, ethnicity, family background, or age may be used as an index of trust in a transaction, as they ‘serve as indicators of member ship in a common cultural system, of shared background expectations. In general, the greater the number of social similarities (dissimilarities), the more interacts assume that common background expectations do (do not) exist, hence trust can (cannot) be relied upon’ (Zucker, 1986: 63). Furthermore, as in the case of reputations, stereotypes or preconceptions are not easily changed, even in the face of challenging evidence."
+
+(p. 236, para. 7):
+"key personnel at NetTrade were requested to keep a written journal, reflecting on their interactions with IndiaSoft, particularly during their early visits to India. Herein, they recorded their impressions and observations at critical junctures in the project. Obviously, our presence in the workplace, and respondents’ awareness that their journals would be read by us, inevitably had a bearing on their actions and reports. This, however, was mitigated to some extent by the fact that we developed good relationships with participants over time, and by our efforts to deliberately cultivate an open, reflective, learning culture around the offshoring project."
+
+(pp. 238-240):
+IndiaSoft humility and hunger reflected Irish programmers attitudes in the past. Also "Belevolance". 
+
+(p. 236, para. 3):
+ "John and Niall spoke often about the (much less tangible) ‘good vibes’ that they constantly got from IndiaSoft and the important role that this played in their decision making. In this regard, we are reminded of Giddens’ assertion that trust is always blind and that it involves an emotional, as opposed to a cognitive, commitment to a given set of outcomes."
+
 
 
