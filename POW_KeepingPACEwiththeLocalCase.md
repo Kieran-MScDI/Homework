@@ -49,5 +49,6 @@ Accelerate: “Ramp-up is identified as the key success factor for this phase an
 
 ## References
 
+*Oshri, I., Kotlarsky, J., & Willcocks, L. (2023). The handbook of global outsourcing and offshoring (4th 2023). Palgrave Macmillan. https://doi.org/10.1007/978-3-031-12034-3<br/>*
 *Tiwari, Vinay, "Transition During Offshore Outsourcing: A Process Model" (2009). ICIS 2009 Proceedings. 33.
 https://aisel.aisnet.org/icis2009/33*
