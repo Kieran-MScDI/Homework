@@ -1,7 +1,7 @@
 ## Core banking source (case)
 
-| Case | Comments |
-|--- | --- |
+|Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Comments &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+|:--- |:--- |
 | Core banking source (case)Presentation by Peter Forman executive CIO of International European Bank (IEB), tonew hires at the Dublin offices of State Bank (SB). SB was purchased by IEB andrecently achieved full systems integration with its new parent. Identities and namesanonymised. | | 
 |"IEB is a leading player in Northern Europe; we reached this place through organic growthand well chosen acquisitions over the past ten years. What is interesting thing about us is wereally don’t have an IT organisation. We have a development organisation! And myresponsibility isn’t really IT, it’s product, process and systems so on. | |
 |Some things in the lower stack of IT operations have become a commodity, like IT operations,like how you handle a notebook like this, we’re not differentiating ourselves on that. However,financial services are one of the most digitalised industries of all. What we are… The serviceswe are selling, they are digital! I know you can still have credit card, and there are somenotes, still, even in Ireland there are cheques still... so, of course there is paper as well, butreally all our new service products are digital, so we really compete very much based on ourabilities to use IT both in our business development but also in our productivity. So IT is verymuch the heart of that. Not the IT! But the development utilising IT!  ![fig. 1](Case8_fig1.jpg "fig. 1") | | 
