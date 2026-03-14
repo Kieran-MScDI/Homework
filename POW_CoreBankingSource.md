@@ -12,7 +12,7 @@
 Mirroring; the offshoring partner appears to be well matched with the client. Considering the context of the speech I think it is fair to assume that the most optimistic picture is being portrayed by the client organisation.
 Language; The outsourcing to India may have new challenges, while the existing North European developers may be used to multi-lingual systems I wonder what level of language expertise will be available from the Indian organisation for the new Polish aquisition; would Polishlanguage be an issue?
 Agentic AI; As per the article on India's offshoring industry the need for the client organisation to offshore when expansion occurs may disappears. This may me a really good case for that kind of change, the parent company have repeatable activities where scaling out existing processes and systems to new sites could be managed by Agentic AI development.   
- 
+![fig. 4](Case8_5yr_Tata_Infosys_Wipro.jpg "fig. 4")  
 
 # Reading
 
