@@ -111,14 +111,13 @@ pose of organizations (Grant, 1996; Spender,
 1996)."
 p. 513, para 2
 
-"Forbasictasks,theyfeedChatGPTwiththekindof
-instructionsandcontextthatwouldoftenbegiven
-toajuniorcolleague.Morecomplex,higher-level
+"For basic tasks, they feed ChatGPT with the kind of
+instructions and context that would often be given
+to a junior colleague. More complex, higher-level
 questions were also posed to ChatGPT. For
-example, insteadof turning toabusiness part
-nerforhelpwithatasksheisknowntobeprofi
-cient in, ChatGPTwas seenas amoreefficient
-placetoturn." 
+example, insteadof turning toabusiness partner
+for help with a task she is known to be proficient in,
+ChatGPTwas seen as a more efficient place to turn." 
 p. 515, para. 2
 
 "I feel a bit more stupid. I feel like
