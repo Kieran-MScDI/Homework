@@ -27,149 +27,47 @@
 |5. enhance visibility of virtual members within the team and outside in the organization; | Not detailed | 
 |6. enable individual members of the virtual team to benefit from the team. | Not detailed | 
 
-" Considerable attention has
-also focused on the communication technologies
-needed to facilitate virtual work and enable
-knowledge sharing (Malhotra & Majchrzak, 2004,
-2005; Cascio, 2000; Zigurs, 2003; & Davis, 2004).
-However, the special skills needed to lead teams
-that have both geographic dispersion and innova
-tive problem-solving challenges have received
-limited attention in research."
+" Considerable attention has also focused on the communication technologies needed to facilitate virtual work and enable knowledge sharing (Malhotra & Majchrzak, 2004, 2005; Cascio, 2000; Zigurs, 2003; & Davis, 2004). However, the special skills needed to lead teams that have both geographic dispersion and innovative problem-solving challenges have received limited attention in research."
 p. 62, para. 2 ???
 
-" successful virtual teams use the time between meetings to
-asynchronously (through use of electronic discus
-sion threads and annotation of documents in the
-repository) generate and evaluate ideas. By work
-ing asynchronously virtual team members can
-pick and choose when they can make their con
-tributions. This allows team members with diverse
-backgrounds to have a different rhythm and pace
-of generating their own ideas and digesting others’
-ideas. Leaders also use asynchronous discussion
-threads to identify areas of disagreements because
-the discussion threads give members with different
-language capabilities time to share their thoughts
-in their non-native languages in ways that they
-find difficult in synchronous (fast-paced audio
-conference) sessions."
+" successful virtual teams use the time between meetings to asynchronously (through use of electronic discussion threads and annotation of documents in the repository) generate and evaluate ideas. By working asynchronously virtual team members can pick and choose when they can make their contributions. This allows team members with diverse backgrounds to have a different rhythm and pace of generating their own ideas and digesting others’ ideas. Leaders also use asynchronous discussion threads to identify areas of disagreements because the discussion threads give members with different language capabilities time to share their thoughts in their non-native languages in ways that they find difficult in synchronous (fast-paced audio conference) sessions."
 p. 64, para. 2
 
-"Virtual team leaders feel that it is helpful to have
-team members reconnect with the “human” side
-of each individual, which helps to remind each
-member of their similarities, as well as provide
-them “boundary objects” or common metaphors
-to work from during the meeting."
+"Virtual team leaders feel that it is helpful to have team members reconnect with the “human” side of each individual, which helps to remind each member of their similarities, as well as provide them “boundary objects” or common metaphors to work from during the meeting."
 p. 65, para. 2
 
-" by orchestrating virtual team meetings
-carefully, virtual team leaders are able to reinforce
-the team’s mission, increase team commitment
-and participation, leverage the team’s collective
-expertise, and reinforce the value of virtual team
-membership. As one virtual team leader pointed
-out, “The challenge was to command member atten
-tion and focus in an era of multi-tasking.”"
+" by orchestrating virtual team meetings carefully, virtual team leaders are able to reinforce the team’s mission, increase team commitment and participation, leverage the team’s collective expertise, and reinforce the value of virtual team membership. As one virtual team leader pointed out, “The challenge was to command member attention and focus in an era of multi-tasking.”"
 p. 66, para. 2
 
-" As one of the team leaders
-we spoke with said: “Synchronizing the efforts of a
-geographically, culturally, and technically diverse vir
-tual team does not happen magically. .. .My first
-priority is to build the kinds of working relationships
-where team members will freely share knowledge,
-leverage members’ collective expertise, anticipate each
-others’ actions, and feel confident that all team mem
-bers are making a full-fledged contribution to the
-team’s success.”"
+" As one of the team leaders we spoke with said: “Synchronizing the efforts of a geographically, culturally, and technically diverse virtual team does not happen magically. .. .My first priority is to build the kinds of working relationships where team members will freely share knowledge, leverage members’ collective expertise, anticipate each others’ actions, and feel confident that all team members are making a full-fledged contribution to the team’s success.”"
 p. 68, para. 3
 
-"in the context of a project manage
-ment course, students could be assigned to work
-virtually with other students taking similar courses
-at universities in various parts of the world. The experience of working cross-culturally and virtu
-ally introduces students to both the potential and
-the challenges of working in virtual teams. In
-structors can use these assignments to coach teams
-at the “teachable moments” when they encounter
-project management issues."
+"in the context of a project management course, students could be assigned to work virtually with other students taking similar courses at universities in various parts of the world. The experience of working cross-culturally and virtually introduces students to both the potential and the challenges of working in virtual teams. Instructors can use these assignments to coach teams at the “teachable moments” when they encounter project management issues."
 pp. 68-69, para. 8
 
 ### ChatGPT
-"Side effects describe the broader, long
-term, and often unexpected, consequences of
-technology use (Zammuto et al., 2007). For
-example, we found that employees go to ChatGPT
-instead of to colleagues for advice. This is prob
-lematic because within-firm knowledge sharing
-and integration is a core ingredient for organiza
-tional learning and competitive advantage (Azeem
-et al., 2021) and arguably the fundamental pur
-pose of organizations (Grant, 1996; Spender,
-1996)."
+"Side effects describe the broader, longterm, and often unexpected, consequences of technology use (Zammuto et al., 2007). For example, we found that employees go to ChatGPT instead of to colleagues for advice. This is problematic because within-firm knowledge sharing and integration is a core ingredient for organizational learning and competitive advantage (Azeemet al., 2021) and arguably the fundamental purpose of organizations (Grant, 1996; Spender, 1996)."
 p. 513, para 2
 
-"For basic tasks, they feed ChatGPT with the kind of
-instructions and context that would often be given
-to a junior colleague. More complex, higher-level
-questions were also posed to ChatGPT. For
-example, insteadof turning toabusiness partner
-for help with a task she is known to be proficient in,
-ChatGPTwas seen as a more efficient place to turn." 
+"For basic tasks, they feed ChatGPT with the kind of instructions and context that would often be given to a junior colleague. More complex, higher-level questions were also posed to ChatGPT. For example, insteadof turning toabusiness partner for help with a task she is known to be proficient in, ChatGPTwas seen as a more efficient place to turn." 
 p. 515, para. 2
 
-"I feel a bit more stupid. I feel like
-very much depending on this technology. Like
-right now, if you ask me to write something, I
-start to feel scared. I don’t really trust my
-behavior. I have to rely on this technology."
+"I feel a bit more stupid. I feel like very much depending on this technology. Like right now, if you ask me to write something, I start to feel scared. I don’t really trust my behavior. I have to rely on this technology."
 p. 515 para. 4
 
 **Good examples of use in general but glaringly misses the dangers of entering IP information into Gen AI where it can be stored and accessed outside the control of the organisation.**
-**Update:** *"On the other hand, fully unrestricted use of
-ChatGPT can be risky due to, for example, hallu
-cinations, legal issues such as unknowingly using
-copyrighted text, **leaking sensitive data**, or over
-reliance"* p. 520, para. 1
+
+**Update:** *"On the other hand, fully unrestricted use of ChatGPT can be risky due to, for example, hallucinations, legal issues such as unknowingly using copyrighted text, **leaking sensitive data**, or over reliance"* p. 520, para. 1
 **Still a very small entry for such an important risk.**
 
-"In this stage, it is no longer clear (even to
-the user) what aspects of their work are human
-and which are AI generated. As a side effect, it
-becomes difficult to control the quality of knowl
-edge that circulates within the organization and is
-delivered to clients."
+"In this stage, it is no longer clear (even to the user) what aspects of their work are human and which are AI generated. As a side effect, it becomes difficult to control the quality of knowledge that circulates within the organization and is delivered to clients."
 p. 518, para. 1
 
-" First, incentivize interaction that is
-related to work, such as collaborative working
-practices to encourage opportunities for workers
-to learn from one another. We do not advocate for
-interaction for the sake of interaction (i.e., forced
-fun). Interaction should be carefully tied into how
-managers expect work to be done. Second, ensure
-that interaction is live. Asynchronous working al
-lows moments to ask ChatGPT, but real-time in
-teractions are spontaneous and require quick
-independent thinking and on-the-spot decision
-making. It is important to ensure that such live
-interactions are occurring regularly and are appropriately facilitatedwith resources such as
-working spaces."
+" First, incentivize interaction that is related to work, such as collaborative working practices to encourage opportunities for workers to learn from one another. We do not advocate for interaction for the sake of interaction (i.e., forced fun). Interaction should be carefully tied into how managers expect work to be done. Second, ensure that interaction is live. Asynchronous working allows moments to ask ChatGPT, but real-time in teractions are spontaneous and require quick independent thinking and on-the-spot decision making. It is important to ensure that such live interactions are occurring regularly and are appropriately facilitatedwith resources such as working spaces."
 p. 519, para. 5
 
 " A concrete
-example for securing the talent bench is designing
-mentoring programs where the importance of
-tagging along to, for example, meetings and pre
-sentations is highlighted. In addition, to ensure
-succession, managers are advised to be cautious
-about downsizing their entry-level workforce in
-spite of the appearance of lowerworkload forthem
-due to the efficiency gains from ChatGPT’s affor
-dances, focusing instead on forecasting in demand
-skill sets that need to be brought in and developed."
+example for securing the talent bench is designing mentoring programs where the importance of tagging along to, for example, meetings and presentations is highlighted. In addition, to ensure succession, managers are advised to be cautious about downsizing their entry-level workforce inspite of the appearance of lowerworkload forthem due to the efficiency gains from ChatGPT’s affordances, focusing instead on forecasting in demand skill sets that need to be brought in and developed."
 p. 520, para. 5
 
 
