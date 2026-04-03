@@ -14,11 +14,12 @@
 (Panteli et al., 2020) <br/>
 (Gillard et al., 2008) <br/>
 (Virtuos, unknown) <br/>
-
+(Oshri et al., 2023) <br/>
 
 ### References
-*Panteli, N., Rapti, A., & Scholarios, D. (2020). If He Just Knew Who We Were: Microworkers’ Emerging Bonds of Attachment in a Fragmented Employment Relationship. Work, Employment and Society, 34(3), 476–494. https://doi.org/10.1177/0950017019897872* <br/>
 *Gillard, H., Howcroft, D., Mitev, N., & Richardson, H. (2008). ‘Missing women’: Gender, ICTs, and the shaping of the global economy. Information Technology for Development, 14(4), 262–279. https://doi.org/10.1002/itdj.20098* <br/>
+*Oshri, I., Kotlarsky, J., & Willcocks, L. (2023). The handbook of global outsourcing and offshoring (4th 2023). Palgrave Macmillan. https://doi.org/10.1007/978-3-031-12034-3*<br/>
+*Panteli, N., Rapti, A., & Scholarios, D. (2020). If He Just Knew Who We Were: Microworkers’ Emerging Bonds of Attachment in a Fragmented Employment Relationship. Work, Employment and Society, 34(3), 476–494. https://doi.org/10.1177/0950017019897872* <br/>
 *Virtuos, (unknown). Living and Working in Xi'an; China’s Historic Old Capital.* <br/>
 
 ## Links
