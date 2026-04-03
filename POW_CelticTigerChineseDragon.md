@@ -15,10 +15,13 @@
 (Gillard et al., 2008) <br/>
 (Virtuos, unknown) <br/>
 (Oshri et al., 2023) <br/>
+Note:
+Oshri et al., (2009) Chapter 10, Emerging Issues in Sourcing Strategy, content is redistributed in the 4th edition (Oshri et al., 2023) as follows; Chapter 5 Supplier Configurations and Capabilities (for Bundling Services), Chapter 11 Captive and Shared Service Centres, Chapter 12 Innovation through Outsourcing).
 
 ### References
 *Gillard, H., Howcroft, D., Mitev, N., & Richardson, H. (2008). ‘Missing women’: Gender, ICTs, and the shaping of the global economy. Information Technology for Development, 14(4), 262–279. https://doi.org/10.1002/itdj.20098* <br/>
-*Oshri, I., Kotlarsky, J., & Willcocks, L. (2023). The handbook of global outsourcing and offshoring (4th 2023). Palgrave Macmillan. https://doi.org/10.1007/978-3-031-12034-3*<br/>
+*Oshri, I., Kotlarsky, J., & Willcocks, L. (2009). The handbook of global outsourcing and offshoring. In Palgrave Macmillan UK eBooks. Palgrave Macmillan. https://doi.org/10.1057/9780230251076* (Chapter 10 Emerging issues in sourcing strategy)<br/>
+*Oshri, I., Kotlarsky, J., & Willcocks, L. (2023). The handbook of global outsourcing and offshoring (4th 2023). Palgrave Macmillan. https://doi.org/10.1007/978-3-031-12034-3* <br/>
 *Panteli, N., Rapti, A., & Scholarios, D. (2020). If He Just Knew Who We Were: Microworkers’ Emerging Bonds of Attachment in a Fragmented Employment Relationship. Work, Employment and Society, 34(3), 476–494. https://doi.org/10.1177/0950017019897872* <br/>
 *Virtuos, (unknown). Living and Working in Xi'an; China’s Historic Old Capital.* <br/>
 
@@ -26,5 +29,3 @@
 Ref. Reading 10c: <br/>
 * https://en.wikipedia.org/wiki/Virtuos<br/>
 * https://www.virtuosgames.com/careers/ <br/>
-
-
