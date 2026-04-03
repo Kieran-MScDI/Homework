@@ -11,13 +11,21 @@
 |**Related Industry Data**<br/>• Agile 101 - Methodologies, Learn more about Scrum, XP, DSDM, FDD and Lean<br/>software development (www.infoq.com).<br/>• Understanding Chinese business culture: potential starting points for developing an<br/>understanding of guanxi (relational) and mianzi (face/status/rank) on wikipedia.org or google<br/>search.<br/>| |
 
 ## Readings
-(Panteli et al., 2020) <br/>
 
-(Virtuos, unknown) <br/>
-(Oshri et al., 2023) <br/>
 Note:
 Oshri et al., (2009) Chapter 10, Emerging Issues in Sourcing Strategy, content is redistributed in the 4th edition (Oshri et al., 2023) as follows; Chapter 5 Supplier Configurations and Capabilities (for Bundling Services), Chapter 11 Captive and Shared Service Centres, Chapter 12 Innovation through Outsourcing).
 
+(Virtuos, unknown) <br/>
+(Oshri et al., 2023) <br/>
+
+#### If He Just Knew Who We Were
+"*In the absence of a single employing entity, individuals construct a network of attach ments as a means of alleviating the experience of transitional and uncertain employment (Petriglieri et al., 2019). Microworker involvement with an online community can enhance psychological safety, just as seeking support is a means of resisting victimisation in precarious workplaces (Alberti et al., 2018). Attachment to supportive online sites also provides information and shared experiences of specific platforms, thus tangibly reducing the inherent ambiguity of the employment relationship.*" (Panteli et al., 2020) <br/>
+Reminds me of Self-Organisation topic discussed in our Business Enquiry module (Kavanagh, 2024) with similar organisation taking place in cryptocurrency industry as we observed during Ethereum Ecosystem module (Dylan-Ennis, 2025).
+
+"*We add to this evidence by showing how such nascent collectivisation serves a particular purpose in the absence of conventional employer relationships, with strong bonds of attachment to the community energising workers’ collective response to exploitation (Webster, 2016). Vitally, this encourages voice in an environment where individuals may fear speaking out due to the potential consequences for their income (Howcroft and Bergvall-Kåreborn, 2018). Thus, cultivating community identity may mobilise microworkers, as already found among other gig economy workers (Woodcock, 2018).*"  (Panteli et al., 2020) <br/>
+Again I can refer to another module, Cultural & Political Perspective (Kelly, 2025) and to last weeks class where we touched on Structuration Theory
+
+#### Missing Women
 *"the clustering of economic activity, which is predominantly city based, is linked to the reorganization of international companies pursuing new markets, and this spatial reconfiguration means many women turn to home-based employment or telework. These informal employment activities provide key sources of income and hence degrees of independence, but they supply capitalism with flexible, extremely cheap, and unprotected labor."* (Gillard et al., 2008, p. 263, para. 3) <br/>
 Written in 2008 I wonder if the the shift to remote working has helped to balance the scales in women's favour, and if it has will the progress made be washed away by current strategies to pull workers back into the office.
 
@@ -37,10 +45,10 @@ Overall the Gillard et al. paper (2008) reveals a complex relationship between c
 
 
 
-
-
 ### References
+*Dylan-Ennis, P. (2025). MIS41220-The Ethereum Ecosystem. Michael Smurfit Graduate Business School, Dublin. Spring Trimester 2024/25.* <br/>
 *Gillard, H., Howcroft, D., Mitev, N., & Richardson, H. (2008). ‘Missing women’: Gender, ICTs, and the shaping of the global economy. Information Technology for Development, 14(4), 262–279. https://doi.org/10.1002/itdj.20098* <br/>
+*Kavanagh, D. (2024). MIS40910: Skills for Business Enquiry. Michael Smurfit Graduate Business School, Dublin. Autumn Trimester 2024/25.* <br/>
 *Lewis, H. (2025). The Genius Myth: A Curious History of a Dangerous Idea. Penguin Publishing Group. https://books.google.ie/books?id=3CBJEQAAQBAJ*<br/>
 *Oshri, I., Kotlarsky, J., & Willcocks, L. (2009). The handbook of global outsourcing and offshoring. In Palgrave Macmillan UK eBooks. Palgrave Macmillan. https://doi.org/10.1057/9780230251076* (Chapter 10 Emerging issues in sourcing strategy)<br/>
 *Oshri, I., Kotlarsky, J., & Willcocks, L. (2023). The handbook of global outsourcing and offshoring (4th 2023). Palgrave Macmillan. https://doi.org/10.1007/978-3-031-12034-3* <br/>
@@ -51,3 +59,7 @@ Overall the Gillard et al. paper (2008) reveals a complex relationship between c
 Ref. Reading 10c: <br/>
 * https://en.wikipedia.org/wiki/Virtuos<br/>
 * https://www.virtuosgames.com/careers/ <br/>
+
+Search for 996 working hours <br/>
+https://en.wikipedia.org/wiki/996_working_hour_system#cite_note-auto2-16 <br/>
+https://www.nytimes.com/2025/09/28/business/996-hustle-culture-tech.html <br/>
