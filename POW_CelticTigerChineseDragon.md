@@ -10,3 +10,20 @@
 |"Now Agile and Scrum are well known in China. In the real implementation there are some<br/>cultural differences that might make it feel different to an implementation in the US."<br/>"Let me put it this way; In western countries, people like to treat work like playing games. A<br/>manager here is something like the parent, not the children. People don't accept the childish<br/>approach. Engineers think 'we are not kids, we are adults'. So Agile can inspire in the West<br/>because it is playful, but in China?..."<br/> | | 
 |**Related Industry Data**<br/>• Agile 101 - Methodologies, Learn more about Scrum, XP, DSDM, FDD and Lean<br/>software development (www.infoq.com).<br/>• Understanding Chinese business culture: potential starting points for developing an<br/>understanding of guanxi (relational) and mianzi (face/status/rank) on wikipedia.org or google<br/>search.<br/>| |
 
+## Readings
+(Panteli et al., 2020) <br/>
+(Gillard et al., 2008) <br/>
+(Virtuos, unknown) <br/>
+
+
+### References
+*Panteli, N., Rapti, A., & Scholarios, D. (2020). If He Just Knew Who We Were: Microworkers’ Emerging Bonds of Attachment in a Fragmented Employment Relationship. Work, Employment and Society, 34(3), 476–494. https://doi.org/10.1177/0950017019897872* <br/>
+*Gillard, H., Howcroft, D., Mitev, N., & Richardson, H. (2008). ‘Missing women’: Gender, ICTs, and the shaping of the global economy. Information Technology for Development, 14(4), 262–279. https://doi.org/10.1002/itdj.20098* <br/>
+*Virtuos, (unknown). Living and Working in Xi'an; China’s Historic Old Capital.* <br/>
+
+## Links
+Ref. Reading 10c: <br/>
+* https://en.wikipedia.org/wiki/Virtuos<br/>
+* https://www.virtuosgames.com/careers/ <br/>
+
+
